@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🐕 🐼 🐻 🐇 🐾 🐨 🦊 🦝 🦭 🐬 🐳 🦈 I'm a dedicated animal lover, and can't get enough photos of our fluffy & marine friends.
 - 🐦 How to reach me: Twitter [@Born2Data](https://twitter.com/born2data)
 - 📷 Follow my adventures: Instagram [@TheScubaPanda](https://www.instagram.com/thescubapanda/)
-- 🐼 Fun fact: My friends call me `Panda`, apparently I have a hooman body and a fluffy & hungry Panda soul
+- 🐼 Fun fact: My friends call me `Panda`, apparently I have a hooman body combined with a fluffy & hungry Panda soul
 
