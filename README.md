@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤖 I’m currently working at NVIDIA[https://www.nvidia.com/], leading a team of engineers building and maintaining exciting features mostly around [TensorFlow](https://github.com/tensorflow/tensorflow/) Inference using [TensorRT](https://developer.nvidia.com/tensorrt): [TF-TRT](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)
+- 🤖 I’m currently working at [NVIDIA](https://www.nvidia.com/), leading a team of engineers building and maintaining exciting features mostly around [TensorFlow](https://github.com/tensorflow/tensorflow/) Inference using [TensorRT](https://developer.nvidia.com/tensorrt): [TF-TRT](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)
 - 🌠 I'm fascinated with astronomy and astro physics. The mystery and beauty of the universe amazes me on a daily basis.
 - 🤿 I’m a passionate technical scuba diver, spend most of my free time under water.
 - ⛰️ I'm an avid cave diver and feel at peace in some of the most unwelcoming places on earth. Let's talk about it!
